@@ -1,4 +1,4 @@
-package com.fayyadh0093.miniproject.ui.theme
+package com.fayyadh0093.miniproject.ui.theme.theme
 
 import androidx.compose.ui.graphics.Color
 
