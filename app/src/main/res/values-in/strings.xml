@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="receipt">Resep</string>
+    <string name="about_us">Tentang Kami</string>
+    <string name="addReceipt">Tambah Resep</string>
+    <string name="detailR">Detail Resep</string>
+    <string name="back">Kembali</string>
+    <string name="ingredients">Bahan-bahan :\n%1$s</string>
+    <string name="step">Langkah langkah :\n%1$s</string>
+    <string name="alert">Inputan anda kosong atau salah</string>
+    <string name="share">Bagikan</string>
+    <string name="share_template">%1$s\n\nBahan-bahan : %2$s\nLangkah-langkah : %3$s</string>
+    <string name="About">Aplikasi Resep Makanan ini dirancang untuk membantu pengguna menemukan, menambah, dan berbagi berbagai resep masakan dengan mudah. Dengan antarmuka yang sederhana dan intuitif, pengguna dapat menuliskan bahan-bahan, langkah pembuatan, serta membagikan resep favorit mereka ke berbagai platform. Aplikasi ini cocok untuk pemula maupun koki berpengalaman yang ingin berbagi kreasi masakan mereka.</string>
+    <string name="receipt_name">Nama Resep</string>
+    <string name="Igredients">Bahan-bahan</string>
+    <string name="howtomake">Cara Membuat</string>
+    <string name="friedrice">Nasi Goreng</string>
+    <string name="friedchicken">Ayam Goreng</string>
+    <string name="notfound">Tidak bisa menemukan gambar</string>
+    <string name="chooseimage">Tap untuk memilih gambar</string>
+    <string name="logo">Logo</string>
+    <string name="RecipeImages">Gambar Resep</string>
+    <string name="choose">Pilih Gambar</string>
+</resources>

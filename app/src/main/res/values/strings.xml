@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">MiniProject</string>
+    <string name="receipt">Recipe</string>
+    <string name="about_us">About Us</string>
+    <string name="addReceipt">Add Recipe</string>
+    <string name="detailR">Detail Recipe</string>
+    <string name="back">Back</string>
+    <string name="ingredients">Ingredients :\n%1$s</string>
+    <string name="step">Step by step :\n%1$s</string>
+    <string name="alert">u got wrong input dawg</string>
+    <string name="share">Share</string>
+    <string name="share_template">%1$s\n\nIngredients : %2$s\nStep by step : %3$s</string>
+    <string name="About">This Recipe App is designed to help users easily find, add, and share various food recipes. With a simple and intuitive interface, users can write down ingredients, cooking steps, and share their favorite recipes across different platforms. This app is perfect for both beginners and experienced cooks looking to share their culinary creations.</string>
+    <string name="receipt_name">Recipe Name</string>
+    <string name="Igredients">Ingredinets</string>
+    <string name="howtomake">How To Make it</string>
+    <string name="friedrice">Fried Rice</string>
+    <string name="friedchicken">Fried Chicken</string>
+    <string name="notfound">Can\'t find the picture</string>
+    <string name="chooseimage">Tap to select an image</string>
+    <string name="logo">Logo</string>
+    <string name="RecipeImages">Recipe Images</string>
+    <string name="choose">Choose Image</string>
+
 </resources>
