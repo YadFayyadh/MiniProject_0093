@@ -84,7 +84,7 @@ fun AboutScreen(navController: NavHostController){
                     .clip(CircleShape)
             )
             Text(
-                text = stringResource(R.string.receipt),
+                text = stringResource(R.string.app_name),
                 style = MaterialTheme.typography.titleLarge,
                 textAlign = TextAlign.Center
             )
